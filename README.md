@@ -24,4 +24,3 @@ PORT=3000
 npm install
 npm run dev
 ```
-![running app](https://github.com/user-attachments/assets/d882c2ec-2539-49eb-990a-3b0669af26b6)
