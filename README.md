@@ -1,4 +1,4 @@
-# NodeJs app with MySQL Database
+# NodeJs Application with MySQL Database
 
 A simple nodejs app connected with mySQL database.
 
